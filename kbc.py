@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import pyttsx3
 
 def speak(text):
